@@ -1,4 +1,4 @@
-# Installing Photoshop
+# Installing InDesign
 
 1. In a browser, go to the [Adobe Creative Cloud sign in screen](https://creativecloud.adobe.com).
 2. Enter your **UWM email address** and click **Continue**.
