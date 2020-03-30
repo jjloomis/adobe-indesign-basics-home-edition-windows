@@ -7,7 +7,7 @@
 ## Installing Photoshop on your PC
 
 * [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
-* [Installing Photoshop](installing-photoshop-on-your-pc/installing-photoshop.md)
+* [Installing InDesign](installing-photoshop-on-your-pc/installing-indesign.md)
 
 ## Setting up your project
 
