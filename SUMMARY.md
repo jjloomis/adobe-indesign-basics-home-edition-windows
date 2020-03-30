@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 
-## Installing Photoshop on your PC
+## Installing InDesign on your PC
 
 * [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
 * [Installing InDesign](installing-photoshop-on-your-pc/installing-indesign.md)
