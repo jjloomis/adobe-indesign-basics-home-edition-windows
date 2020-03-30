@@ -1,4 +1,4 @@
-# Adobe InDesign CC 2017 Basics
+# Adobe InDesign 2020 Basics \| Home Edition \(Windows\)
 
 ## About
 
