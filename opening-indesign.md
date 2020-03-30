@@ -1,8 +1,12 @@
 # Opening InDesign
 
-1. On 
-2. Click **Go** on the menu bar and select **Applications**.
-3. In Applications, open **Adobe Premiere CC 2017**.
+1. On your PC, click the **Start** button. 
+2. In the fly-out menu, select **Adobe Premiere Pro**.
+
+
+
+
+
 
 
 
