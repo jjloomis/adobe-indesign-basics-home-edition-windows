@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
 
+## Installing Photoshop on your PC
+
+* [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
+
 ## Setting up your project
 
 * [Creating a Project Folder](creating-a-project-folder.md)
