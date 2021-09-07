@@ -2,11 +2,6 @@
 
 * [Introduction](README.md)
 
-## Installing InDesign on your PC
-
-* [Checking if your computer meets minimum system requirements](installing-indesign-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
-* [Installing InDesign](installing-indesign-on-your-pc/installing-indesign.md)
-
 ## Setting up your project
 
 * [Creating a Project Folder](setting-up-your-project/creating-a-project-folder.md)
