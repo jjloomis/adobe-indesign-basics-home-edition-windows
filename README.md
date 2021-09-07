@@ -1,8 +1,8 @@
-# Adobe InDesign 2020 Basics \| Home Edition \(Windows\)
+# Introduction
 
 ## About
 
-Adobe InDesign CC 2017 instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Adobe InDesign CC 2017 instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 
@@ -10,7 +10,7 @@ Written by Jeffrey John Loomis
 
 ## Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-indesign-basics/details).
+PDF, MOBI, and EPUB versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-indesign-basics/details).
 
 ## GitHub
 
